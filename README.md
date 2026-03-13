@@ -60,11 +60,13 @@ Place and connect the following components:
 
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
-
-
----
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
+
+![image alt](https://github.com/naveenk918/Gaussian-Pulse-Propagation/blob/4e9325a5be9d3e760ee7ef48f27bd5396b011317/WhatsApp%20Image%202026-03-13%20at%202.20.42%20PM.jpeg)
+
+# Conclusion
+Thus the Gaussian pulse propagation is successfully executed.
 
 
 
